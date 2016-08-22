@@ -6,3 +6,5 @@
 /SecondSightWeb.Api/obj/Debug
 /.vs
 /packages
+/SecondSightWeb.Domain/obj/Debug
+/SecondSightWeb.Test/obj/Debug

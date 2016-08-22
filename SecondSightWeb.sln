@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondSightWeb.Api", "SecondSightWeb.Api\SecondSightWeb.Api.csproj", "{EC6A5851-CC7B-455C-8487-A9151876FF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondSightWeb.Test", "SecondSightWeb.Test\SecondSightWeb.Test.csproj", "{6DE60F15-09CF-42E4-A7F6-5CBD57E4AB3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EC6A5851-CC7B-455C-8487-A9151876FF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC6A5851-CC7B-455C-8487-A9151876FF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC6A5851-CC7B-455C-8487-A9151876FF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE60F15-09CF-42E4-A7F6-5CBD57E4AB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE60F15-09CF-42E4-A7F6-5CBD57E4AB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE60F15-09CF-42E4-A7F6-5CBD57E4AB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE60F15-09CF-42E4-A7F6-5CBD57E4AB3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
